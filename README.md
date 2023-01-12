@@ -5,7 +5,7 @@ A Laravel Shop Product Management System to Add/Manage Shops and Products
 ## Installation Instructions
 
 - `git clone https://github.com/ninad198/shop_product.git`
-- `composer update`
+- `composer update` or `composer install --ignore-platform-reqs`
 - rename the `.env.example` file as `.env`
 - set 
     
